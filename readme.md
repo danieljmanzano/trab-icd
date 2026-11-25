@@ -1,0 +1,1 @@
+criar uma venv e rodar ```pip install -r requirements.txt``` para executar o notebook
